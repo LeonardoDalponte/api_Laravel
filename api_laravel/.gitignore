@@ -20,4 +20,4 @@ yarn-error.log
 /.vscode
 /.zed
 /postgresql
-/portainer_data
+/portainer_dat
